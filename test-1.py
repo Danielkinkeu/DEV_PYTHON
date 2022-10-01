@@ -1,7 +1,7 @@
 from cmath import sqrt
 
 print("equations de la forme ax2 + bx + c")
-kdfd_a = int(input("en la premiere valeur de a"))
+kdfd_a = int(input("en la valeur de a"))
 kdfd_b = int(input("entrez la valeur de b"))
 kdfd_c = int(input("entrez la valeur de c"))
 
